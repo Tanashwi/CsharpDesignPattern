@@ -1,0 +1,15 @@
+D:\dontNet\DesignPatterns\CSharp10DesignPatterns\Starter solution\Singleton\bin\Debug\net6.0\Singleton.exe
+D:\dontNet\DesignPatterns\CSharp10DesignPatterns\Starter solution\Singleton\bin\Debug\net6.0\Singleton.deps.json
+D:\dontNet\DesignPatterns\CSharp10DesignPatterns\Starter solution\Singleton\bin\Debug\net6.0\Singleton.runtimeconfig.json
+D:\dontNet\DesignPatterns\CSharp10DesignPatterns\Starter solution\Singleton\bin\Debug\net6.0\Singleton.dll
+D:\dontNet\DesignPatterns\CSharp10DesignPatterns\Starter solution\Singleton\bin\Debug\net6.0\Singleton.pdb
+D:\dontNet\DesignPatterns\CSharp10DesignPatterns\Starter solution\Singleton\obj\Debug\net6.0\Singleton.csproj.AssemblyReference.cache
+D:\dontNet\DesignPatterns\CSharp10DesignPatterns\Starter solution\Singleton\obj\Debug\net6.0\Singleton.GeneratedMSBuildEditorConfig.editorconfig
+D:\dontNet\DesignPatterns\CSharp10DesignPatterns\Starter solution\Singleton\obj\Debug\net6.0\Singleton.AssemblyInfoInputs.cache
+D:\dontNet\DesignPatterns\CSharp10DesignPatterns\Starter solution\Singleton\obj\Debug\net6.0\Singleton.AssemblyInfo.cs
+D:\dontNet\DesignPatterns\CSharp10DesignPatterns\Starter solution\Singleton\obj\Debug\net6.0\Singleton.csproj.CoreCompileInputs.cache
+D:\dontNet\DesignPatterns\CSharp10DesignPatterns\Starter solution\Singleton\obj\Debug\net6.0\Singleton.dll
+D:\dontNet\DesignPatterns\CSharp10DesignPatterns\Starter solution\Singleton\obj\Debug\net6.0\refint\Singleton.dll
+D:\dontNet\DesignPatterns\CSharp10DesignPatterns\Starter solution\Singleton\obj\Debug\net6.0\Singleton.pdb
+D:\dontNet\DesignPatterns\CSharp10DesignPatterns\Starter solution\Singleton\obj\Debug\net6.0\Singleton.genruntimeconfig.cache
+D:\dontNet\DesignPatterns\CSharp10DesignPatterns\Starter solution\Singleton\obj\Debug\net6.0\ref\Singleton.dll
