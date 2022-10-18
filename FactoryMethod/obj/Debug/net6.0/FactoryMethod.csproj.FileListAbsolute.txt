@@ -1,0 +1,15 @@
+D:\dontNet\DesignPatterns\CSharp10DesignPatterns\Starter solution\FactoryMethod\obj\Debug\net6.0\FactoryMethod.csproj.AssemblyReference.cache
+D:\dontNet\DesignPatterns\CSharp10DesignPatterns\Starter solution\FactoryMethod\obj\Debug\net6.0\FactoryMethod.GeneratedMSBuildEditorConfig.editorconfig
+D:\dontNet\DesignPatterns\CSharp10DesignPatterns\Starter solution\FactoryMethod\obj\Debug\net6.0\FactoryMethod.AssemblyInfoInputs.cache
+D:\dontNet\DesignPatterns\CSharp10DesignPatterns\Starter solution\FactoryMethod\obj\Debug\net6.0\FactoryMethod.AssemblyInfo.cs
+D:\dontNet\DesignPatterns\CSharp10DesignPatterns\Starter solution\FactoryMethod\obj\Debug\net6.0\FactoryMethod.csproj.CoreCompileInputs.cache
+D:\dontNet\DesignPatterns\CSharp10DesignPatterns\Starter solution\FactoryMethod\bin\Debug\net6.0\FactoryMethod.exe
+D:\dontNet\DesignPatterns\CSharp10DesignPatterns\Starter solution\FactoryMethod\bin\Debug\net6.0\FactoryMethod.deps.json
+D:\dontNet\DesignPatterns\CSharp10DesignPatterns\Starter solution\FactoryMethod\bin\Debug\net6.0\FactoryMethod.runtimeconfig.json
+D:\dontNet\DesignPatterns\CSharp10DesignPatterns\Starter solution\FactoryMethod\bin\Debug\net6.0\FactoryMethod.dll
+D:\dontNet\DesignPatterns\CSharp10DesignPatterns\Starter solution\FactoryMethod\bin\Debug\net6.0\FactoryMethod.pdb
+D:\dontNet\DesignPatterns\CSharp10DesignPatterns\Starter solution\FactoryMethod\obj\Debug\net6.0\FactoryMethod.dll
+D:\dontNet\DesignPatterns\CSharp10DesignPatterns\Starter solution\FactoryMethod\obj\Debug\net6.0\refint\FactoryMethod.dll
+D:\dontNet\DesignPatterns\CSharp10DesignPatterns\Starter solution\FactoryMethod\obj\Debug\net6.0\FactoryMethod.pdb
+D:\dontNet\DesignPatterns\CSharp10DesignPatterns\Starter solution\FactoryMethod\obj\Debug\net6.0\FactoryMethod.genruntimeconfig.cache
+D:\dontNet\DesignPatterns\CSharp10DesignPatterns\Starter solution\FactoryMethod\obj\Debug\net6.0\ref\FactoryMethod.dll
